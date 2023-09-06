@@ -41,13 +41,18 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"PelisPlus Serie: A Controversial Streaming Platform This title suggests that PelisPlus Serie is a streaming platform that has generated controversy or debate for some reason. It might delve into the platform's reputation or legal issues.",
+   "photo1":"https://iili.io/J9ansM7.jpg"},
+  {"desc2":"Legality and Risks of Using PelisPlus Serie This title explores the legal aspects and potential risks associated with using PelisPlus Serie, such as copyright infringement or cybersecurity concerns.",
+"photo2":"https://iili.io/J9an4wl.jpg"},
+  {"desc3":"Legal Alternatives to PelisPlus Serie for Watching Series This title suggests that there are legal alternatives to PelisPlus Serie for streaming TV series and discusses some of these legitimate options.",
+"photo3":"https://iili.io/J9aninS.jpg"},
+  {"desc4":"The Impact of Illicit Streaming Sites like PelisPlus Serie This title examines how websites like PelisPlus Serie, which provide unauthorized access to content, affect the entertainment industry and its revenue.",
+"photo4":"https://iili.io/J9anru4.webp"},
+  {"desc5":"Tips for Avoiding Illegal Streaming Sites like PelisPlus Serie This title offers advice on how to steer clear of illegal streaming websites like PelisPlus Serie and protect yourself from potential legal consequences.",
+"photo5":"https://iili.io/J9anLP9.jpg"},
+  {"descd":"Why You Should Support Legal Streaming Platforms This title argues for the importance of supporting legal streaming platforms and the benefits they bring to content creators and the industry.",
+"photod":"https://iili.io/J9anLP9.jpg"}
    ]
  
 }
